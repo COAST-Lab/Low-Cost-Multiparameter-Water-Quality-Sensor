@@ -7,9 +7,10 @@ Please read the following for a high-level overview of the project and the conte
 
 # Table of contents
 1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+2. [How to Build the Sensor](#paragraph1)
+3. [Firmware Information](#paragraph2)
+4. [Data Analysis](#paragraph3)
+5. [Future USe with Participatory Science Networks](#paragraph4)
 
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
