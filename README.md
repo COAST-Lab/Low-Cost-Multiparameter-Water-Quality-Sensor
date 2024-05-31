@@ -13,10 +13,16 @@ Please read the following for a high-level overview of the project and the conte
 5. [Future USe with Participatory Science Networks](#paragraph4)
 
 ## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+
+This sensor contains components from low-cost chlorophyll a sensors ("In situ measurements of phytoplankton fluorescence using low cost electronics" Leeuw et al., 2013, 
+"Hardware Selection and Performance of Low-Cost Fluorometers" Hixson et al., 2022), as well as low-cost turbidity sensors ("Open-source, low-cost, in-situ turbidity sensor for river network monitoring" Droujko et al., 2022, "Increased scale and accessibility of sediment transport research in rivers through practical, open-source turbidity and depth sensors" Langhorst et al., 2023). Both chlorophyll a and turbidity components were integrated to make a singular benchtop sensor capable of measuring both chlorophyll a and 
+turbidity in water samples. 
+
+This repository contains information on the design of this sensor as well as data regarding its measurements of water samples and possible applications for future
+deployment in participatory science networks. This sensor a Particle Argonr, an Adafruit Adalogger Featherwing for local data storage, an AS7341 light sensor, an AW9523 LED driver, multiple LEDs, and a water-resistant enclosure.
 
 ## How to Build the Sensor <a name="paragraph1"></a>
-The first paragraph text
+* Getting started with the [
 
 ## Firmware Information <a name="paragraph2"></a>
 The second paragraph text
