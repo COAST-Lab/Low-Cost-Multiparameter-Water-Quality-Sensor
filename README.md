@@ -23,8 +23,8 @@ deployment in participatory science networks. This sensor a Particle Argonr, an 
 ## How to Build the Sensor <a name="paragraph1"></a>
 * Getting started with the code: [Firmware](https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Firmware)
 * Link to parts, suppliers, and costs:
-* Cuvette Design: [Cuvette Design] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Hardware/Cuvette%20Holder)
-* Water Resistant Housing: [Water Resistant Housing] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Hardware/Water%20Resistant%20Housing)
+* Cuvette Design: [Cuvette Design](https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Hardware/Cuvette%20Holder)
+* Water Resistant Housing:[Water Resistant Housing](https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Hardware/Water%20Resistant%20Housing)
 
 ## Data Analysis <a name="paragraph2"></a
 Both the chlorophyll a and turbidity portions of the sensor underwent tests with Rhodamine (chlorophyll a) and Formazin (turbidity) standards separately. The chlorophyll a portion of these tests contains multiple design changes of the cuvette holder as these tests were performed before turbidity was integrated into the sensor.
@@ -36,11 +36,11 @@ These tests without the water resistant housing and can be found at:
 Following the construction of the water resistant housing, both the chlorphyll a and turbidity portions of the sensor underwent dilution tests. The slope of these tests were used to calibrate the sensor for field testing. 
 
 These tests with the water resistant housing can be found at:
-* Chlorophyll [Rhodamine Dilution Test with Water Resistant Housing] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Chlorophyll/Data%20Analysis/Dilution%20Tests%20with%20Water%20Resistant%20Housing)
-* Turbidity [Formazin Dilution Test with Water Resistant Housing] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Turbidity/Data%20Analysis/Dilution%20Tests%20with%20Water%20Resistant%20Housing)
+* Chlorophyll [Rhodamine Dilution Test with Water Resistant Housing](https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Chlorophyll/Data%20Analysis/Dilution%20Tests%20with%20Water%20Resistant%20Housing)))
+* Turbidity [Formazin Dilution Test with Water Resistant Housing](https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Turbidity/Data%20Analysis/Dilution%20Tests%20with%20Water%20Resistant%20Housing)
 
 Following this field tests were performed on the multiparameter low-cost sensor. Field test results/data analysis can be found at:
-[Field Tests] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Field%20Tests)
+[Field Tests](https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Field%20Tests))
 
 
 ## Future Use with Participatory Science Networks <a name="paragraph3"></a>
