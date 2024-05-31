@@ -21,7 +21,7 @@ This repository contains information on the design of this sensor as well as dat
 deployment in participatory science networks. This sensor a Particle Argonr, an Adafruit Adalogger Featherwing for local data storage, an AS7341 light sensor, an AW9523 LED driver, multiple LEDs, and a water-resistant enclosure.
 
 ## How to Build the Sensor <a name="paragraph1"></a>
-* Getting started with the code: [Firmware] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Firmware)
+* Getting started with the code: [Firmware] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Firmware).
 * Link to parts, suppliers, and costs:
 * Cuvette Design: [Cuvette Design] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Hardware/Cuvette%20Holder)
 * Water Resistant Housing: [Water Resistant Housing] (https://github.com/COAST-Lab/Low-Cost-Multiparameter-Water-Quality-Sesnor/tree/main/Hardware/Water%20Resistant%20Housing)
