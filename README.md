@@ -15,11 +15,14 @@ Please read the following for a high-level overview of the project and the conte
 ## This is the introduction <a name="introduction"></a>
 Some introduction text, formatted in heading 2 style
 
-## Some paragraph <a name="paragraph1"></a>
+## How to Build the Sensor <a name="paragraph1"></a>
 The first paragraph text
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
+## Firmware Information <a name="paragraph2"></a>
 The second paragraph text
+
+## Data Analysis <a name="paragraph3"></a>
+third paragraph text
+
+## Future Use with Participatory Science Networks <a name="paragraph4"></a>
+fourth paragraph text
