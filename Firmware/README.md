@@ -2,7 +2,11 @@
 
 This firmware project was created using [Particle Developer Tools](https://www.particle.io/developer-tools/) and is compatible with all [Particle Devices](https://www.particle.io/devices/).
 
-Feel free to replace this README.md file with your own content, or keep it for reference.
+This code is used to utilize both chlorophyll a and turbidity portions of the low-cost multiparameter sensor. This code flashes an exterior LED twice and then measures chlorophyll a for one minute. Then the exterior LED flashes twice to indicate chlorophyll a measurement has ended. Then the exterior LED flashes 3 times to indicate the start of turbidity measurement aand then turbidity for one minute. Then the exterior LED flashes on and remains on to indicate the end of all measurements. 
+
+Results are printed to a .csv spreadsheet and the header in the .csv file "Measurement Type" will indicate what parameter (chlorophyll a or turbidity) is being measured. 
+
+This spreadsheet is then run through a Python analysis script to graph chlorophyll a or turbidity values. 
 
 ## Table of Contents
 - [Introduction](#introduction)
