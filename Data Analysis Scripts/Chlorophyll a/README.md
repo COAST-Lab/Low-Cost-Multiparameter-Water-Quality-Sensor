@@ -1,7 +1,6 @@
-# Data Analysis Scripts
+# Chlorophyll a Data Analysis Scripts
 
-This folder contains data anlysis scripts for the low-cost multiparameter sensor. 
-The .csv file obtained from the low-cost multiparameter sensor code should be usaed for these scripts
-NOT the .csv files obtained from the code for measurements of chlorophyll a and turbidiy separately from one another. 
-
-The 'turbidity' folder contians the Python code to analyze the turbidity measurements. and the 'chlorophyll' folder the Python code to analyze the chlorophyll a measurement
+This folder contains the data analysis script for the chlorophyll a portion of the sensor. 
+Type the .csv address obtained from the low-cost multiparameter sensor into the 'df = pd.read_csv()' of the code. 
+The Python code in this folder will filter out the F8 values from the sensor and run this through the calibration curve 
+for chlorophyll a values. These chlorophyll a values will be in ug/L and be plotted vs. milliseconds. 
