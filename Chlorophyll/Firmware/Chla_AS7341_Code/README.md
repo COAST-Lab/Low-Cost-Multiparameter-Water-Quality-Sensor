@@ -2,6 +2,8 @@
 
 A Particle project named Chl_SD_RTC_AS7341
 
+This code operates only the chlorophyll a portion of the low-cost multiparameter sensor.This code should be used if only chlorophyll a measurements are desired from a water sample. 
+
 ## Welcome to your project!
 
 Every new Particle project is composed of 3 important elements that you'll see have been created in your project directory for Chl_SD_RTC_AS7341.
