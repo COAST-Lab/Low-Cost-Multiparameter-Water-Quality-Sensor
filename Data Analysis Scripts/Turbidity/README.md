@@ -1,7 +1,3 @@
-# Data Analysis Scripts
+# Turbidity Data Analysis Script
 
-This folder contains data anlysis scripts for the low-cost multiparameter sensor. 
-The .csv file obtained from the low-cost multiparameter sensor code should be usaed for these scripts
-NOT the .csv files obtained from the code for measurements of chlorophyll a and turbidiy separately from one another. 
-
-The 'turbidity' folder contians the Python code to analyze the turbidity measurements. and the 'chlorophyll' folder the Python code to analyze the chlorophyll a measurement
+This folder contains the data analysis script for the turbidity portion of the sensor. Type the .csv address obtained from the low-cost multiparameter sensor into the 'df = pd.read_csv()' of the code. The Python code in this folder will filter out the NIR values from the sensor and run this through the calibration curve for turbidity values. These turbidity values will be in FNU and be plotted vs. milliseconds.
