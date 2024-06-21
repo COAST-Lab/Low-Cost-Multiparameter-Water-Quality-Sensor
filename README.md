@@ -9,7 +9,7 @@ Please read the following for a high-level overview of the project and the conte
 1. [Introduction](#introduction)
 2. [How to Build the Sensor](#paragraph1)
 3. [Data Analysis](#paragraph2)
-4. [Future USe with Participatory Science Networks](#paragraph3)
+4. [Future Use with Participatory Science Networks](#paragraph3)
 
 ## This is the introduction <a name="introduction"></a>
 
