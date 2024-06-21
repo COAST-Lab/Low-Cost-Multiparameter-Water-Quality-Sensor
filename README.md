@@ -1,4 +1,4 @@
-# Low-Cost-Multiparameter-Water-Quality-Sesnor
+# Low-Cost-Multiparameter-Water-Quality-Sensor
 
 This GitHub repository provides updated designs for a low-cost, open-source, multiparameter water quality sensor. This sensor has the capability of measuring both chlorophyll a
 and turbidity levels in water samples. This project is funded by the MOORE Foundation in conjunction with the SOCON (Sustained Ocean Color Observations from Nanosatellites) program. The goal of this project is to create a low-cost multiparameter sensor that can be distributed to participatory science networks to obtain a wide breadth of in situ water quality data to compare to satellite algorithms for water quality parameters. 
